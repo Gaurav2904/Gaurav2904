@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, MERN Stack**
 
-- 📝 I regularly write articles on [https://medium.com/@gaurav.p2904](https://medium.com/@gaurav.p2904)
+- 📝 Sometimes, I write articles on [https://medium.com/@gaurav.p2904](https://medium.com/@gaurav.p2904)
 
 - 💬 Ask me about **✔️ Data strategy advisory & technology selection/recommendation ✔️ Building data warehouses using modern cloud platforms and technologies ✔️ Creating and automating data pipelines, real-time streaming & ETL processes ✔️ Building highly intuitive, interactive dashboards. ✔️ Data Cleaning, Processing, and Machine Learning models ✔️ Data Migration (Heterogenous and Homogenous)**
 
